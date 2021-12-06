@@ -1,6 +1,6 @@
 <br />
 <br />
-<h1>Restful Web Service</h1>
+<h1 align="center">Restful Web Service</h1>
 <br />
 <p align="center">
     <a href="https://github.com/Ascendus/RestfulWebService/releases" target="_blank">
