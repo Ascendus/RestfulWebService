@@ -1,5 +1,6 @@
 <br />
 <br />
+<h1>Restful Web Service</h1>
 <br />
 <p align="center">
     <a href="https://github.com/Ascendus/RestfulWebService/releases" target="_blank">
@@ -17,44 +18,15 @@
 </p>
 
 ## About
-Astura is the official Discord bot for the [Astura Studios](https://github.com/Astura-Studios) Discord community server developed and maintained by [Ascendus](https://github.com/Ascendus/) and the Astura Studios community.
+A RESTful web service written in Kotlin and bootstrapped with Spring Initializr.
 
-* Written in TypeScript/NodeJS
-* Includes Prettier, ESLint/@typescript-eslint
-* Dynamic handlers
-* Includes API for the Astura Studios website
-* Uses MikroORM with SQLite
-
-## Installation
-**NodeJS v16.6.0 or newer is required**
-```sh
-npm install
-```
-
-## Run tests
-```sh
-npm test
-```
-
-## Running the bot
-For running Lavalink for music: (Java 11 or newer is required)
-```sh
-cd lavalink
-java -jar Lavalink.jar
-```
-
-For running the bot:
-```sh
-npm run dev
-```
-
-## Help
-If you need any help regarding repository contribution, feel free to reach out in our [Discord server](https://discord.gg/FtkbxQsWAX) or direct messaging Ascendus#6316 on Discord.
+* Written in Kotlin (NodeJS)
+* Bootstrapped with Spring Initializr.
 
 ## Contributing
-Contributions, issues and feature requests are welcome!<br />Feel free to check out the [issues page](https://github.com/Astura-Studios/Astura/issues) to either view past issues or submit a new issue. You can also take a look at the [contributing guide (not available yet)](+https://github.com/Astura-Studios/Astura/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check out the [issues page](https://github.com/Ascendus/RestfulWebService/issues) to either view past issues or submit a new issue. You can also take a look at the [contributing guide (not available yet)](+https://github.com/Astura-Studios/Astura/blob/master/CONTRIBUTING.md).
 
 
 ## License
-Copyright :copyright: 2021 [Astura-Studios](https://github.com/+Astura-Studios).<br />
+Copyright :copyright: 2021 [Ascendus](https://github.com/+Ascendus).<br />
 This project is licensed under the [BSD 3 Clause License](https://opensource.org/licenses/BSD-3-Clause).
